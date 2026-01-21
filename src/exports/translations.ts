@@ -11,7 +11,7 @@ export const translations = {
   attachFiles: "Attach Files",
   bold: `Bold <${modifierKey}+b>`,
   italics: `Italicize <${modifierKey}+i>`,
-  strike: `Strikethrough <${modifierKey}+shift+x>`,
+  strike: `Strikethrough <${modifierKey}+shift+s>`,
   link: `Link <${modifierKey}+k>`,
   heading: `Heading <${modifierKey}+${altKey}+1>`,
   blockQuote: `Blockquote <${modifierKey}+shift+b>`,
